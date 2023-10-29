@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "jsxFactory": "elements.createElement",
+        "outDir": "api"
+    },
+    "include": [
+        "src/**/*.tsx"
+    ]
+}
